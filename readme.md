@@ -22,7 +22,7 @@ This project uses Vosk for speech recognition and Google Translate for real-time
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/speech-recognition-translation.git
+   git clone https://github.com/maddoxx099/Speech-recognition.git
    cd speech-recognition-translation
 
 2. **Create a virtual environment and activate it:**
