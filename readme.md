@@ -47,9 +47,9 @@ This project uses Vosk for speech recognition and Google Translate for real-time
 
 2. **Use the GUI:**
 
-    Click the Start button to begin recording and transcribing.
-    Click the Stop button to stop recording.
-    The original transcript will appear in the left text box.
-    The translated text will appear in the right text box.
+- Click the Start button to begin recording and transcribing.
+- Click the Stop button to stop recording.
+- The original transcript will appear in the left text box.
+- The translated text will appear in the right text box.
 
 
