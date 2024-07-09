@@ -1,2 +1,4 @@
 /venv
-api_secrets.py
+/vosk-model-en-in-0.5
+/vosk-model-small-en-us-0.15
+/vosk-recasepunc-en-0.22
